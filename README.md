@@ -73,24 +73,15 @@ Predictive modeling remains an ongoing component of the project.
 
 ## Repository Structure
 
-```text
 NFL-Data-Analytics-Competition/
 │
 ├── Written Code/
 │   ├── 01_WR_Data_Exploration.py
-│   ├── 02_WR_Combine_Tracking_Exploration.py
 │   ├── ...
 │   └── 26_WR_Final_Prediction_Analysis.py
 │
-├── Revised Code/
-│   ├── 01_WR_Model_Data.py
-│   └── 02_WR_Final_Models.py
-│
-├── GitHub Script Upload/
-│
 ├── .gitignore
 └── README.md
-```
 
 ## Technologies
 
